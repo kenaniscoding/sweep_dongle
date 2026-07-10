@@ -1,4 +1,4 @@
-# Copy of [ZMK-CONFIG](https://github.com/aroum/zmk-enki42-dongle/tree/N!N_v2/config/boards/shields/enki42)
+# Copy of [ZMK-CONFIG](https://github.com/englmaxi/zmk-config)
 
 This is my personal [zmk-config](https://zmk.dev/) for my ergo keyboards.
 It consists of a common keymap with [Aptmak](https://github.com/Apsu/aptmak) as alpha layer and is optimized for 26 keys by heavily relying on combos for the missing alpha and symbol keys.
