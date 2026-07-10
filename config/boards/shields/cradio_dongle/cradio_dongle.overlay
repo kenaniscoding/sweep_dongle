@@ -1,4 +1,4 @@
-#include "cradio_dongle.dtsi"
+#include <boards/shields/cradio/cradio.dtsi>
 
 / {
     chosen {
