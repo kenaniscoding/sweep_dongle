@@ -35,7 +35,7 @@
 
 #include "include/keypos.h"
 #include "behaviors.dtsi"
-#include "combos.dtsi"
+/* #include "combos.dtsi" */
 #include "macros.dtsi"
 #include "mouse.dtsi"
 
