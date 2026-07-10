@@ -1,5 +1,0 @@
-#include "cosmo.dtsi"
-
-&default_transform {
-    col-offset = <5>;
-};

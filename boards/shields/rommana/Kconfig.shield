@@ -1,8 +1,0 @@
-config SHIELD_ROMMANA_DONGLE
-    def_bool $(shields_list_contains,rommana_dongle)
-
-config SHIELD_ROMMANA_LEFT
-    def_bool $(shields_list_contains,rommana_left)
-
-config SHIELD_ROMMANA_RIGHT
-    def_bool $(shields_list_contains,rommana_right)
