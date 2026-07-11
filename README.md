@@ -17,27 +17,6 @@ Additional features are provided by the following [modules](https://zmk.dev/docs
 
 ## Boards and Keymaps
 
-<details open>
-  <summary><a href="https://github.com/AlaaSaadAbdo/Rommana">Rommana</a> (26-30 keys)</summary>
-  <img src="keymap-drawer/rommana.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
-
-<details>
-  <summary><a href="https://github.com/davidphilipbarr/Sweep">Sweep</a> (34 keys)</summary>
-  <img src="keymap-drawer/sweep.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
-
-<details>
-  <summary><a href="https://github.com/grassfedreeve/akohekohe">ʻākohekohe</a> (26 keys)</summary>
-  <img src="keymap-drawer/akohekohe.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
-
 <details>
   <summary><a href="https://ryanis.cool/cosmos/beta#cm:CnsKGBIFEJBBIBMSADgxQJmCh9ADSNWJ6NTQBQoPEgUQkE0gExIAEgA4HUAAChUSBRCQWSATEgASAxCwLzgJQIDwvAIKEhIFEJBlIBMSABIDELA7OApAAAoUEgUQoHMgACIDEJsBOB5AgIaKgAUYAEDohaCu8FVI3Iyr0AEKVQoXEhMQwIACQICAmAJIwpmglZC8AVBDOAgKFRIQEEBAgIAgSNCVgN2Q9QNQC1CeAgoCUH8KA1CCAhgCIgoIyAEQyAEYACAAQMuL/J/QMUjFlYDg2AIQAxiGICIGCMMBELkBOAOCAQECWEhgA2gAcggoMjAYOAFACnjIg7SdAQ==">Cosmo</a> (28 keys)</summary>
   <img src="keymap-drawer/cosmo.svg" >
