@@ -1,5 +1,12 @@
 # Copy of [ZMK-CONFIG](https://github.com/englmaxi/zmk-config)
 
+## Tips
+1. get the .uf2 files 
+2. boot the reset .uf2 files if new microcontrollers
+
+
+# ZMK-CONFIG by [englmaxi](https://github.com/englmaxi)
+
 This is my personal [zmk-config](https://zmk.dev/) for my ergo keyboards.
 It consists of a common keymap with [Aptmak](https://github.com/Apsu/aptmak) as alpha layer and is optimized for 26 keys by heavily relying on combos for the missing alpha and symbol keys.
 
@@ -15,32 +22,11 @@ Additional features are provided by the following [modules](https://zmk.dev/docs
 - [**zmk-rgbled-widgets**](https://github.com/caksoylar/zmk-rgbled-widget) to show the connection and battery status with the built-in LEDs of the Xiao BLE controller. Based on this, the module was adapted in [led_indicator](boards/shields/led_indicator) to be used with the single LED of the nice!nano.
 - [**zmk-tri-state**](https://github.com/urob/zmk-tri-state) to define a custom <kbd>swapper</kbd> and a <kbd>select-word</kbd> behavior.
 
-## Boards and Keymaps
-
-<details open>
-  <summary><a href="https://github.com/AlaaSaadAbdo/Rommana">Rommana</a> (26-30 keys)</summary>
-  <img src="keymap-drawer/rommana.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
+## Keymaps
 
 <details>
   <summary><a href="https://github.com/davidphilipbarr/Sweep">Sweep</a> (34 keys)</summary>
   <img src="keymap-drawer/sweep.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
-
-<details>
-  <summary><a href="https://github.com/grassfedreeve/akohekohe">ʻākohekohe</a> (26 keys)</summary>
-  <img src="keymap-drawer/akohekohe.svg" >
-
-  _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
-</details>
-
-<details>
-  <summary><a href="https://ryanis.cool/cosmos/beta#cm:CnsKGBIFEJBBIBMSADgxQJmCh9ADSNWJ6NTQBQoPEgUQkE0gExIAEgA4HUAAChUSBRCQWSATEgASAxCwLzgJQIDwvAIKEhIFEJBlIBMSABIDELA7OApAAAoUEgUQoHMgACIDEJsBOB5AgIaKgAUYAEDohaCu8FVI3Iyr0AEKVQoXEhMQwIACQICAmAJIwpmglZC8AVBDOAgKFRIQEEBAgIAgSNCVgN2Q9QNQC1CeAgoCUH8KA1CCAhgCIgoIyAEQyAEYACAAQMuL/J/QMUjFlYDg2AIQAxiGICIGCMMBELkBOAOCAQECWEhgA2gAcggoMjAYOAFACnjIg7SdAQ==">Cosmo</a> (28 keys)</summary>
-  <img src="keymap-drawer/cosmo.svg" >
 
   _(keymap image created with [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer))_
 </details>
