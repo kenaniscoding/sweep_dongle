@@ -1,11 +1,12 @@
-# Copy of [ZMK-CONFIG](https://github.com/englmaxi/zmk-config)
+<!-- # Copy of [ZMK-CONFIG](https://github.com/englmaxi/zmk-config) -->
 
-## Tips
-1. get the .uf2 files 
-2. boot the reset .uf2 files if new microcontrollers
+<!-- ## Tips -->
+<!-- 1. get the .uf2 files  -->
+<!-- 2. boot the reset .uf2 files if new microcontrollers -->
 
 
-# ZMK-CONFIG by [englmaxi](https://github.com/englmaxi)
+# [ZMK-CONFIG](https://github.com/englmaxi/zmk-config)
+ by [englmaxi](https://github.com/englmaxi)
 
 This is my personal [zmk-config](https://zmk.dev/) for my ergo keyboards.
 It consists of a common keymap with [Aptmak](https://github.com/Apsu/aptmak) as alpha layer and is optimized for 26 keys by heavily relying on combos for the missing alpha and symbol keys.
